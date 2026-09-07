@@ -68,14 +68,14 @@ Sensor DHT11 memiliki keterbatasan pada kecepatan sampling internalnya  datashee
 
 **4) Modifikasi program: rata-rata dari 5 kali pembacaan**
 
-Lihat file: [`code/percobaan1a_akuisisi_sensor_modifikasi.ino`](./code/percobaan1a_akuisisi_sensor_modifikasi.ino)  penjelasan tiap baris kode tambahan sudah dicantumkan di bagian **Penjelasan Code Modifikasi** di atas.
+Lihat file: [`Code/percobaan1a_akuisisi_sensor_modifikasi.ino`](./Code/percobaan1a_akuisisi_sensor_modifikasi.ino)  penjelasan tiap baris kode tambahan sudah dicantumkan di bagian **Penjelasan Code Modifikasi** di atas.
 
 ---
 
 ## Percobaan 2A: Kendali Aktuator Relay Berdasarkan Data Sensor
 
-- Code Percobaan : [`Code/percobaan2a_kendali_aktuator.ino`](./code/percobaan2a_kendali_aktuator.ino)
-- Code modifikasi : [`Code/percobaan2a_kendali_aktuator_modifikasi.ino`](./code/percobaan2a_kendali_aktuator_modifikasi.ino)
+- Code Percobaan : [`Code/percobaan2a_kendali_aktuator.ino`](./Code/percobaan2a_kendali_aktuator.ino)
+- Code modifikasi : [`Code/percobaan2a_kendali_aktuator_modifikasi.ino`](./Code/percobaan2a_kendali_aktuator_modifikasi.ino)
 
 ### Tujuan
 
@@ -120,7 +120,7 @@ Kendali kondisi tunggal menggunakan satu ambang batas yang sama untuk ON dan OFF
 
 **4) Modifikasi program: kendali dengan dua ambang batas (histerisis)**
 
-Lihat file: [`code/percobaan2a_kendali_aktuator_modifikasi.ino`](./code/percobaan2a_kendali_aktuator_modifikasi.ino)  penjelasan inti perubahan: variabel `statusAktuator` disimpan sebagai *state* agar keputusan ON/OFF tidak hanya bergantung pada nilai suhu saat itu saja, melainkan juga pada kondisi sebelumnya  inilah yang membentuk zona histerisis antara `suhuMati` (28°C) dan `suhuNyala` (30°C).
+Lihat file: [`Code/percobaan2a_kendali_aktuator_modifikasi.ino`](./Code/percobaan2a_kendali_aktuator_modifikasi.ino)  penjelasan inti perubahan: variabel `statusAktuator` disimpan sebagai *state* agar keputusan ON/OFF tidak hanya bergantung pada nilai suhu saat itu saja, melainkan juga pada kondisi sebelumnya  inilah yang membentuk zona histerisis antara `suhuMati` (28°C) dan `suhuNyala` (30°C).
 
 ---
 
