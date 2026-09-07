@@ -22,8 +22,8 @@ Praktikum ini membahas dua konsep dasar sistem IoT berbasis ESP32: akuisisi data
 
 ## Percobaan 1A: Akuisisi Data Sensor DHT11
 
-- Code Percobaan : [`code/percobaan1a_akuisisi_sensor.ino`](./code/percobaan1a_akuisisi_sensor.ino)
-- Code modifikasi : [`code/percobaan1a_akuisisi_sensor_modifikasi.ino`](./code/percobaan1a_akuisisi_sensor_modifikasi.ino)
+- Code Percobaan : [`Code/percobaan1a_akuisisi_sensor.ino`](./code/percobaan1a_akuisisi_sensor.ino)
+- Code modifikasi : [`Code/percobaan1a_akuisisi_sensor_modifikasi.ino`](./code/percobaan1a_akuisisi_sensor_modifikasi.ino)
 
 ### Tujuan
 
@@ -74,8 +74,8 @@ Lihat file: [`code/percobaan1a_akuisisi_sensor_modifikasi.ino`](./code/percobaan
 
 ## Percobaan 2A: Kendali Aktuator Relay Berdasarkan Data Sensor
 
-- Code Percobaan : [`code/percobaan2a_kendali_aktuator.ino`](./code/percobaan2a_kendali_aktuator.ino)
-- Code modifikasi : [`code/percobaan2a_kendali_aktuator_modifikasi.ino`](./code/percobaan2a_kendali_aktuator_modifikasi.ino)
+- Code Percobaan : [`Code/percobaan2a_kendali_aktuator.ino`](./code/percobaan2a_kendali_aktuator.ino)
+- Code modifikasi : [`Code/percobaan2a_kendali_aktuator_modifikasi.ino`](./code/percobaan2a_kendali_aktuator_modifikasi.ino)
 
 ### Tujuan
 
