@@ -127,7 +127,7 @@ penjelasan inti perubahan sudah dicantumkan di bagian **Penjelasan Code Modifika
 
 **1) Uraikan hasil tugas pada praktikum yang telah dilakukan pada setiap percobaan!**
 
-*(Isi bagian ini sesuai data pengamatan asli praktikummu, misalnya: Pada Percobaan 2A, ESP32 berhasil terhubung ke jaringan WiFi yang ditentukan dan menampilkan IP Address, MAC Address, serta RSSI di Serial Monitor. Pada Percobaan 2B, ESP32 berhasil membuat Access Point dengan SSID "ESP32_AccessPoint" dan dapat diakses oleh smartphone/laptop, dengan jumlah client yang terpantau bertambah di Serial Monitor saat ada perangkat yang terhubung.)*
+Pada Percobaan 2A, ESP32 berhasil terhubung ke jaringan WiFi yang ditentukan dan menampilkan IP Address, MAC Address, serta RSSI di Serial Monitor. Pada Percobaan 2B, ESP32 berhasil membuat Access Point dengan SSID "ESP32_AccessPoint" dan dapat diakses oleh smartphone/laptop, dengan jumlah client yang terpantau bertambah di Serial Monitor saat ada perangkat yang terhubung.
 
 **2) Bagaimana pengaruh kekuatan sinyal (RSSI) terhadap kestabilan koneksi WiFi pada perangkat IoT?**
 
