@@ -24,7 +24,7 @@ Praktikum ini membahas dua protokol komunikasi yang umum digunakan pada sistem I
 
 ## Percobaan 3A: Komunikasi Data Menggunakan HTTP
 
-- Code original: [`code/percobaan3a_komunikasi_http.ino`](./code/percobaan3a_komunikasi_http.ino)
+- Code Percobaan: [`code/percobaan3a_komunikasi_http.ino`](./code/percobaan3a_komunikasi_http.ino)
 - Code modifikasi: [`code/percobaan3a_komunikasi_http_modifikasi.ino`](./code/percobaan3a_komunikasi_http_modifikasi.ino)
 
 ### Tujuan
@@ -73,7 +73,7 @@ penjelasan tiap baris kode tambahan sudah dicantumkan di bagian **Penjelasan Cod
 
 ## Percobaan 3B: Komunikasi MQTT
 
-- Code: [`code/percobaan3b_komunikasi_mqtt.ino`](./code/percobaan3b_komunikasi_mqtt.ino)
+- Code Percobaan: [`code/percobaan3b_komunikasi_mqtt.ino`](./code/percobaan3b_komunikasi_mqtt.ino)
 
 ### Tujuan
 
